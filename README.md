@@ -1,2 +1,2 @@
 # Rechner
-Es ist ein C++ Rechner
+Es ist ein simpler C++ Rechner
